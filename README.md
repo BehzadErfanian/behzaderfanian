@@ -4,51 +4,30 @@
 
 I build practical systems at the intersection of **software, data, hardware, and real-world operations**.
 
-My work spans production software, retail technology, data-driven decision systems, embedded/device integration, process automation, and engineering management. I care about systems that are reliable in production — not just demos that work once.
+My work spans production software, retail technology, data-driven systems, embedded/device integration, process automation, and engineering management. I focus on software that is maintainable, testable, and reliable in real operating environments.
 
-## What I'm working on
+## Featured public project
 
 ### [SadrScales-Integration](https://github.com/BehzadErfanian/SadrScales-Integration)
 
-An official public integration toolkit and SQL contract for connecting POS, ERP, and accounting software to **Sadr Scales**.
+Official public integration resources for connecting POS, ERP, and accounting software to **Sadr Scales**.
 
-The project is being built as a complete developer-facing repository with:
+The repository currently provides the public SQL integration contract, developer documentation, compatibility guidance, security boundaries, and automated public-repository validation.
 
-- a documented SQL integration contract;
-- a public C# integration SDK;
-- examples for multiple programming languages;
-- automated validation and CI;
-- release packages and compatibility documentation;
-- a strict public/private security boundary.
-
-This is currently my main public engineering project.
-
-## Engineering interests
+## Engineering areas
 
 - **C# / .NET** — production applications, architecture, integration tooling
 - **SQL & Data Engineering** — transactional systems, data contracts, analytics
 - **Python & Data Science** — analysis, automation, applied AI
 - **Embedded & Device Integration** — software/hardware communication and test systems
 - **Software Quality** — testing, diagnostics, release engineering, maintainability
-- **Industrial & Retail Technology** — software that has to survive real operational conditions
-
-## Current public direction
-
-I'm actively expanding my open-source work around:
-
-- reusable .NET and integration tools;
-- data and analytics utilities;
-- practical AI for business and industrial systems;
-- testing and reliability tooling;
-- engineering examples based on real production experience, without exposing proprietary systems.
-
-I prefer a few serious, documented projects over a large number of artificial repositories or meaningless contribution streaks.
+- **Industrial & Retail Technology** — systems designed for real operational conditions
 
 ## Background
 
-My experience crosses engineering and management: R&D, manufacturing and production systems, operations, process improvement, software development, data analytics, business intelligence, digital transformation, and applied AI.
+My experience combines engineering and management across R&D, manufacturing, operations, process improvement, software development, data analytics, business intelligence, digital transformation, and applied AI.
 
-That mix strongly shapes how I build software: **technical decisions have to make sense operationally and commercially too.**
+That mix shapes how I approach engineering: **technical decisions should make sense in production, operations, and business — not only in code.**
 
 ## Selected technologies
 
